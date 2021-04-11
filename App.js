@@ -68,7 +68,7 @@ export default function App() {
       <View>
        <Text>
        <Text>{'\n'}{'\n'}</Text>
-       <Text style={{fontWeight: "bold"}}>{'\n'} Pofessor e Coordenador do Curso de DS: Cristiano Correa</Text>
+       <Text style={{fontWeight: "bold"}}>{'\n'} Professor e Coordenador do Curso de DS: Cristiano Correa</Text>
        <Text> </Text>
        </Text>
       </View>
